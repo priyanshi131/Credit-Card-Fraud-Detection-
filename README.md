@@ -1,0 +1,1 @@
+This project aims to detect fraudulent credit card transactions using a machine learning approach. We employ the Logistic Regression algorithm to classify transactions as either fraudulent or legitimate.
